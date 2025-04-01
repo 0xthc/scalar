@@ -1,5 +1,11 @@
 # @scalar/openapi-types
 
+## 0.2.0
+
+### Minor Changes
+
+- e62e677: feat: OpenAPI-compliant Zod Schemas
+
 ## 0.1.9
 
 ### Patch Changes

@@ -1,5 +1,13 @@
 # @scalar/types
 
+## 0.1.5
+
+### Patch Changes
+
+- e09dab3: feat: multiple configurations with multiple sources
+- Updated dependencies [e62e677]
+  - @scalar/openapi-types@0.2.0
+
 ## 0.1.4
 
 ### Patch Changes
